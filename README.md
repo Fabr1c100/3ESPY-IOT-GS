@@ -47,6 +47,10 @@ O projeto foi simulado no ambiente **Wokwi** utilizando a seguinte arquitetura:
 * **Protocolo de Comunicação:** MQTT (Broker HiveMQ)
 * **Linguagem:** C++ (Arduino IDE)
 
+Demonstração:
+
+<img width="547" height="361" alt="image" src="https://github.com/user-attachments/assets/67d9e682-73e3-4b71-b05d-3eb5913d32b9" />
+
 ---
 
 ## 🔌 Pinagem (Conexões)
