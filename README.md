@@ -14,7 +14,9 @@
 ## 🎬 Demonstração do Projeto
 Simulação Wokwi e Vídeo Explicativo:
 
-👉 **[INSIRA O LINK DO VÍDEO DO YOUTUBE AQUI]** 👉 **[INSIRA O LINK DO PROJETO WOKWI AQUI]**
+👉 **[INSIRA O LINK DO VÍDEO DO YOUTUBE AQUI]** 
+
+👉 **[INSIRA O LINK DO PROJETO WOKWI AQUI]**
 
 ---
 
