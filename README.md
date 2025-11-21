@@ -12,9 +12,7 @@
 ---
 
 ## 🎬 Demonstração do Projeto
-Simulação Wokwi e Vídeo Explicativo:
-
-👉 **[INSIRA O LINK DO VÍDEO DO YOUTUBE AQUI]** 
+Simulação Wokwi: **[[LINK DO PROJETO WOKWI](https://wokwi.com/projects/448250014033126401)]** 
 
 👉 **[INSIRA O LINK DO PROJETO WOKWI AQUI]**
 
