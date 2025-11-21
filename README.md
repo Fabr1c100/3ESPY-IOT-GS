@@ -14,7 +14,7 @@
 ## 🎬 Demonstração do Projeto
 Simulação Wokwi: https://wokwi.com/projects/448250014033126401
 
-Video Demonstrativo: 
+Video Demonstrativo: https://youtu.be/nKw5iMD_aco
 
 ---
 
