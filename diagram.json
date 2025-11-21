@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "author": "StepAhead_GS",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": -28.8, "left": 72.04, "attrs": {} },
+    {
+      "type": "wokwi-buzzer",
+      "id": "bz1",
+      "top": -74.4,
+      "left": 184.2,
+      "attrs": { "volume": "0.1" }
+    },
+    { "type": "wokwi-hc-sr04", "id": "ultrasonic1", "top": -132.9, "left": -109.7, "attrs": {} },
+    {
+      "type": "wokwi-rgb-led",
+      "id": "rgb1",
+      "top": 42.4,
+      "left": 231.5,
+      "attrs": { "common": "cathode" }
+    }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "esp:5V", "ultrasonic1:VCC", "red", [] ],
+    [ "esp:GND.2", "ultrasonic1:GND", "black", [] ],
+    [ "esp:18", "ultrasonic1:TRIG", "green", [] ],
+    [ "esp:19", "ultrasonic1:ECHO", "green", [] ],
+    [ "bz1:2", "esp:23", "green", [] ],
+    [ "esp:GND.1", "bz1:1", "black", [] ],
+    [ "esp:12", "rgb1:R", "green", [] ],
+    [ "esp:14", "rgb1:G", "green", [] ],
+    [ "esp:27", "rgb1:B", "green", [] ],
+    [ "esp:GND.1", "rgb1:COM", "black", [] ]
+  ],
+  "dependencies": {}
+}
