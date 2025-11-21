@@ -1,10 +1,10 @@
-# 🚀 StepAhead - SkillTracker - Global Solutions 2025
+# 🚀 StepAhead - SkillTracker - Global Solution 2025
 
 > **O Futuro do Trabalho:** Gamificação e monitoramento de produtividade via IoT para requalificação profissional.
 
 ---
 
-## 👨‍💻 Integrantes do Grupo
+## 👨‍💻 Integrantes do Grupo - 3ESPY
 * **Açussena Mautone** - RM: 552568
 * **Fabrício Saavedra** - RM: 97631
 * **Guilherme Akio** - RM: 98582
